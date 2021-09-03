@@ -11,5 +11,7 @@ Mechanical Engineering.
 The latest version of the course home page is maintained at: [http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2021/](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2021/)
 
 
-1. [Tutorial Sheet 2A: Q3](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q3.ipynb)
+* [Tutorial Sheet 2A: Q3](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q3.ipynb)
+
+* [Tutorial Sheet 2A: Q8](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q8.ipynb)
 
