@@ -28,6 +28,11 @@ The latest version of the course home page is maintained at: [http://www.facweb.
     - [Q8](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q8.ipynb)
     - [Q10](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q10.ipynb)
 
+* Tutorial Sheet 4:
+    - [Q1](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1.ipynb)
+    - [Q13](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q13.ipynb)
+    
+
 * [Mohr Circle](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/Mohr_Circle.ipynb)
 
 * [Tutorial Sheet 5: Q13: Polar Strain-Displacement](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS5-Q13_polar_strain-displ.ipynb)
