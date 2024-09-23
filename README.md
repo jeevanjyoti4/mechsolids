@@ -11,30 +11,29 @@ Mechanical Engineering.
 The latest version of the course home page is maintained at: [http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2024/](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2024/)
 
 * Tutorial Sheet 1:
-    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS1/TS1-Q7.ipynb)
-    - [Q9](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS1/TS1-Q9.ipynb)
+    - [Q7](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS1/TS1-Q7.ipynb)
+    - [Q9](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS1/TS1-Q9.ipynb)
 
 * Tutorial Sheet 2A:
-    - [Q3](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q3.ipynb)
-    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q7.ipynb)
-    - [Q8](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q8.ipynb)
-    - [Q9](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q9.ipynb)
+    - [Q3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q3.ipynb)
+    - [Q7](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q7.ipynb)
+    - [Q8](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q8.ipynb)
+    - [Q9](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q9.ipynb)
 
 * Tutorial Sheet 2B:
-    - [Q4](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q4.ipynb)
-    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q7.ipynb)
-    - [Q11](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q11.ipynb)
-    - [Q12](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q12.ipynb)
+    - [Q4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q4.ipynb)
+    - [Q7](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q7.ipynb)
+    - [Q11](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q11.ipynb)
+    - [Q12](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q12.ipynb)
 
 * Tutorial Sheet 3:
-    - [Q6](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q6.ipynb)
-    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q7.ipynb)
-    - [Q8](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q8.ipynb)
-    - [Q10](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q10.ipynb)
+    - [Q6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q6.ipynb)
+    - [Q7](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q7.ipynb)
+    - [Q8](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q8.ipynb)
+    - [Q10](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q10.ipynb)
 
 * Tutorial Sheet 4:
-    - [Q1](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1.ipynb)
-    - [Q13](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q13.ipynb)
+    - [Q1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1.ipynb)
     - [Q13](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q13.ipynb)
     
 
