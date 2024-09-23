@@ -10,17 +10,17 @@ Mechanical Engineering.
 
 The latest version of the course home page is maintained at: [http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2024/](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2024/)
 
-* Tutorial Sheet 2B:
-    - [Q3](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q3.ipynb)
-    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q7.ipynb)
-    - [Q8](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q8.ipynb)
-    - [Q9](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A-Q9.ipynb)
+* Tutorial Sheet 2A:
+    - [Q3](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q3.ipynb)
+    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q7.ipynb)
+    - [Q8](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q8.ipynb)
+    - [Q9](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q9.ipynb)
 
 * Tutorial Sheet 2B:
-    - [Q4](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B-Q4.ipynb)
-    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B-Q7.ipynb)
-    - [Q11](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B-Q11.ipynb)
-    - [Q12](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B-Q12.ipynb)
+    - [Q4](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q4.ipynb)
+    - [Q7](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q7.ipynb)
+    - [Q11](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q11.ipynb)
+    - [Q12](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q12.ipynb)
 
 * [Mohr Circle](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/Mohr_Circle.ipynb)
 
