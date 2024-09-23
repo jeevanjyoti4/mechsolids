@@ -35,6 +35,7 @@ The latest version of the course home page is maintained at: [http://www.facweb.
 * Tutorial Sheet 4:
     - [Q1](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1.ipynb)
     - [Q13](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q13.ipynb)
+    - [Q13](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q13.ipynb)
     
 
 * [Mohr Circle](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/Mohr_Circle.ipynb)
