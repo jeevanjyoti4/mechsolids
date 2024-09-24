@@ -43,7 +43,7 @@ The latest version of the course home page is maintained at: [http://www.facweb.
     - [Q17](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q17.ipynb)
     - [Q18](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q18.ipynb)
 
-* Tutorial Sheet 9:
+* Tutorial Sheet 8:
     - Q1
         - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part1.ipynb)
         - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part2.ipynb)
