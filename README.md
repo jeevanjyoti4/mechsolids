@@ -45,19 +45,19 @@ The latest version of the course home page is maintained at: [http://www.facweb.
 
 * Tutorial Sheet 8:
     - Q1
-        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part1.ipynb)
-        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part2.ipynb)
-        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part3.ipynb)
-        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part4.ipynb)
-        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part5.ipynb)
-        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q1_Part6.ipynb)
+        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part1.ipynb)
+        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part2.ipynb)
+        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part3.ipynb)
+        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part4.ipynb)
+        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part5.ipynb)
+        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part6.ipynb)
     - Q2
-        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q2_Part1.ipynb)
-        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q2_Part2.ipynb)
-        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q2_Part3.ipynb)
-        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q2_Part4.ipynb)
-        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q2_Part5.ipynb)
-        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS8-Q2_Part6.ipynb)
+        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part1.ipynb)
+        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part2.ipynb)
+        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part3.ipynb)
+        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part4.ipynb)
+        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part5.ipynb)
+        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part6.ipynb)
     
 
 * [Mohr Circle](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/Mohr_Circle.ipynb)
