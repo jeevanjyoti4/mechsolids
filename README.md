@@ -8,7 +8,8 @@ Solids"__ in the Mechanical Engineering Department of IIT Kharagpur. This
 subject is a mandatory one for the second year undergraduate students of
 Mechanical Engineering. 
 
-The latest version of the course home page is maintained at: [http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2026/](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2026/)
+The latest version of the course home page is maintained at:
+[https://facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2026/](https://facweb.iitkgp.ac.in/~jeevanjyoti/teaching/mechsolids/2026/)
 
 * Tutorial Sheet 1:
     - [Q7](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS1/TS1-Q7.ipynb)
