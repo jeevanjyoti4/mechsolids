@@ -65,6 +65,6 @@ The latest version of the course home page is maintained at:
 
 * [Mohr Circle](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/Mohr_Circle.ipynb)
 
-* [Tutorial Sheet 7: Q13: Polar Strain-Displacement](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS7-Q13_polar_strain-displ.ipynb)
+* [Tutorial Sheet 7: Q13: Polar Strain-Displacement](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS7-Q13_polar_strain-displ.ipynb)
 
 * [Stress equilibrium equations in cylindrical coordinates](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/stress_eqb_cyl.ipynb)
