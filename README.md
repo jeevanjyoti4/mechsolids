@@ -34,35 +34,37 @@ The latest version of the course home page is maintained at:
     - [Q10](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS3/TS3-Q10.ipynb)
 
 * Tutorial Sheet 4:
-    - [Q1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1.ipynb)
-    - [Q13](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q13.ipynb)
-    
-* Tutorial Sheet 6:
-    - [Q8](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q8.ipynb)
-    - [Q9](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q9.ipynb)
-    - [Q16](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q16.ipynb)
-    - [Q17](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q17.ipynb)
-    - [Q18](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q18.ipynb)
-
-* Tutorial Sheet 8:
     - Q1
-        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part1.ipynb)
-        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part2.ipynb)
-        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part3.ipynb)
-        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part4.ipynb)
-        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part5.ipynb)
-        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q1_Part6.ipynb)
+        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1_Part1.ipynb)
+        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1_Part2.ipynb)
+        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1_Part3.ipynb)
+        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1_Part4.ipynb)
+        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1_Part5.ipynb)
+        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q1_Part6.ipynb)
     - Q2
-        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part1.ipynb)
-        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part2.ipynb)
-        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part3.ipynb)
-        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part4.ipynb)
-        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part5.ipynb)
-        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q2_Part6.ipynb)
+        - [Part1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q2_Part1.ipynb)
+        - [Part2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q2_Part2.ipynb)
+        - [Part3](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q2_Part3.ipynb)
+        - [Part4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q2_Part4.ipynb)
+        - [Part5](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q2_Part5.ipynb)
+        - [Part6](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS4/TS4-Q2_Part6.ipynb)
     
+
+
+
+* Tutorial Sheet 6:
+    - [Q1](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q1.ipynb)
+    - [Q13](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS6/TS6-Q13.ipynb)
+    
+* Tutorial Sheet 8:
+    - [Q8](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q8.ipynb)
+    - [Q9](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q9.ipynb)
+    - [Q16](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q16.ipynb)
+    - [Q17](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q17.ipynb)
+    - [Q18](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS8/TS8-Q18.ipynb)
 
 * [Mohr Circle](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/Mohr_Circle.ipynb)
 
-* [Tutorial Sheet 5: Q13: Polar Strain-Displacement](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS5-Q13_polar_strain-displ.ipynb)
+* [Tutorial Sheet 7: Q13: Polar Strain-Displacement](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/TS7-Q13_polar_strain-displ.ipynb)
 
 * [Stress equilibrium equations in cylindrical coordinates](https://nbviewer.jupyter.org/github/jeevanjyoti4/mechsolids/blob/master/stress_eqb_cyl.ipynb)
