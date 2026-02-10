@@ -22,6 +22,7 @@ The latest version of the course home page is maintained at:
     - [Q9](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2A/TS2A-Q9.ipynb)
 
 * Tutorial Sheet 2B:
+    - [Q2](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q2.ipynb)
     - [Q4](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q4.ipynb)
     - [Q7](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q7.ipynb)
     - [Q8](https://github.com/jeevanjyoti4/mechsolids/blob/master/TS2B/TS2B-Q8.ipynb)
